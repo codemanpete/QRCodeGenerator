@@ -21,3 +21,13 @@ function print2DArr(arr) {
     console.log(s);
   }
 }
+
+var line1 = " \u2585\u2585\u2585\u2585\u2585\u2585 ";
+var line2 = " \u2589 \u2585\u2585 \u2589 ";
+var line3 = " \u2589 \u2580\u2580 \u2589 ";
+var line4 = " \u2580\u2580\u2580\u2580\u2580\u2580 ";
+
+console.log(line1);
+console.log(line2);
+console.log(line3);
+console.log(line4);
